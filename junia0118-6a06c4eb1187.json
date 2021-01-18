@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "junia0118",
+  "private_key_id": "6a06c4eb118798c208111445c19b99d3a05ca8c9",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQC7ZBzXcP68fjBq\nwU9SuCyxedeW2pJniz3XS8MUWIz79GmMS8Ai23wadVpcVAfBtj8Zax/+r1CqM+py\nmLLXOfkDEsSNmmZTssL0g4HVPwA97fqH2vU05ogmR+CzF5Y4teI210X0kUmclfx4\nFqATlphz6cjVAeequjmEiU+kMdME93mUvrFs///k3UO3x88xS8rMcsWfPWlUf7mM\nZE5r8PIAcSt3k2s67b9hdVNeq6sdiyPiz3fbjQdOaoBbYZugawP2wbHpQL0WdJnp\nO803XUxdeUZHYDY9oQquSgpHUVo83xUrruQrDCfIKiE9iv/l54W07S7Qzya9XHdy\nUHlAX4zNAgMBAAECggEAC1UZ7BV98kbsr/1ndKiFW2jzlsCPy18/qtN+xVji6Hch\neEXkercsoX+oqp4SUgQEJjS08faxjs7Q8Nk3Mjjj9uxITV/3AZIf+XWH1oOW2ift\nghBwdSCJP0y9fqyAfdwnWrWuGgTnShGapmXdNxILv4bLNHExt2tyVbI6yhfmm7gu\nYib7tTDBy3w1vTh1VyNXiKYU0b2UNNLUz0GS6EtVTvosWFuVaOi3kK6Pmc+DoW+9\nWgkSHpebtNpGcmHBlR0P8rNwE5CGSPJssbADpJMUyQeVb0ryMztLR/sVEiIAJzud\nMdvWEy6OgB5lKw7r4bC2/p5YlXpWx3MiJ16yLuwyAQKBgQDtvvrY49c53HiAYOU6\nK7n+hlWhe0kS0I0/DtHzdqSuWbqVZDBdlHHie6iaTaQPAB+muGKniCrBYkpbKvEv\nhupN7ns4g0aUhaYYjBKG9UgRsjCbLykv6BDnfvLWSWsUHSiAM/jFjQt964TXPHO0\n2MhN2enEG8aJzzBu6/X0uIBZjQKBgQDJx2Ffm7BPbRIioMQD7lC7WfJqYpVDBpJN\nkmN+cwWKQHnTyp4mCMjpgqoKTKQLfxSrV5G1FvF53iG9oI7TbxEzGRDbCjez8kt+\nIIcxCK2qMOEpbFUSQDG2t5A8DUoSXtszFH72VQQK9vwEidkjTyO9C17uRWbmnz8B\nhDBNpvAQQQKBgQCCX9+pvtARD+EY7Ynm64G0nTAqPLRm1+0NLnBd5asLXXNfZzDK\nsJP/Uja0X21fOH8i6yxWmOpxYBhMhHD80ix9DhGOfRbgbaYXAgFK9wlNgvz6rNMW\nTVmvyUMb1ekdf5vtKhL7KoypwdT4P1NoUhUN9DkobN7kRbVWrpkTWXYxJQKBgDSL\nMPYeqrjkJDbUOnbzlh5Te+bsKQY9Ldf5aONCvIyV4aOfPbOV0gvMtM7dylIcE5vS\nv+SyRst/ZrXkm4y/fXEa8+K2NG8thy8e9VV1dxO8isWoqjaIdOmpv2uD4mgKP3Z7\nvdwTo2vfiRz9cIfbUekmjt/pPrSLf3K7o4B1GkqBAoGADHtOQ//CKy8H6goEqrT/\nYQaRzFo1icG1sUJiCTnimZoiGCQYDjzBuEJgfuqhfmEmOUGLjKeFOS8jnxleh/sb\nGs5ApD3yWcxqkjleCUy1pHXmAdcnRXJ5HPWZi2j985y3Rudw25uncSKz8eOpoMxs\n0/YGkGaSQSvOO2L58gaAia8=\n-----END PRIVATE KEY-----\n",
+  "client_email": "juniabot-jungsan@junia0118.iam.gserviceaccount.com",
+  "client_id": "106298666373768961582",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/juniabot-jungsan%40junia0118.iam.gserviceaccount.com"
+}
